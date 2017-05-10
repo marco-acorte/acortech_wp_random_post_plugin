@@ -9,7 +9,7 @@ Author URI: https://www.acortech.it
 Author License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 */
 
-// based on article "WPBeginner� Blog� Tutorials How to Redirect Users to a Random Post in WordPress"
+// based on article "WPBeginner >> Blog >> Tutorials How to Redirect Users to a Random Post in WordPress"
 // http://www.wpbeginner.com/wp-tutorials/how-to-redirect-users-to-a-random-post-in-wordpress/
 
 

@@ -16,5 +16,5 @@ Acortech Random Post allows you to get a redirect 307 url to a random post.
 ex: https://www.acor3.it/?random=1
 
 
-based on Article "WPBeginner» Blog >> Tutorials How to Redirect Users to a Random Post in WordPress"
+based on Article "WPBeginner >> Blog >> Tutorials How to Redirect Users to a Random Post in WordPress"
 http://www.wpbeginner.com/wp-tutorials/how-to-redirect-users-to-a-random-post-in-wordpress/
