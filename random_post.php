@@ -24,9 +24,7 @@ add_action('template_redirect','random_template');
 function random_template() {
        if (get_query_var('random') == 1) {
                $posts = get_posts('post_type=post&orderby=rand&numberposts=1');
-               foreach($posts as $post) {
-                       $link = get_permalink($post);
-               }
+               $link = get_permalink($posts[0]);
                wp_redirect($link,307);
                exit;
        }
