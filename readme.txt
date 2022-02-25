@@ -1,5 +1,5 @@
 === Random Post ===  
-Contributors: Acortech  
+Contributors: acor3  
 Donate link: https://liberapay.com/acor3/donate
 Tags: random, random post, random posts 
 Requires at least: 3.0  
